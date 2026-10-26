@@ -7,6 +7,7 @@ A simple Python-based application that helps users record, manage, and track the
 * **Add Transaction** – Record a new income or expense with relevant details.
 * **View All Transactions** – Display all recorded transactions.
 * **View Summary** – Get a summary of your income, expenses, and remaining balance.
+* **Edit Expense - You can edit id, date, category, amount and note 
 * **Delete Transaction** – Remove a transaction when it is no longer needed.
 * **Export Transactions to CSV** – Export transaction records to a CSV file for easy access and analysis.
 * **Exit** – Close the application.
